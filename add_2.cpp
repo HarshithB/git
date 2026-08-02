@@ -3,5 +3,6 @@ using namespace std;
 
 int main{
     cout<<3+2;
+    cout<<5+2;
     return 0;
 }
